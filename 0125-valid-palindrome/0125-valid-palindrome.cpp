@@ -1,19 +1,21 @@
 class Solution {
-public://we will use two pointer approach in this question 
+public:
     bool isPalindrome(string s) {
-        int n = s.size();
-        int i=0;int j = n-1;
-       while(i<j){
-        //skip non alphanumeric letters
+        int n= s.size();
+        // two pointer le lo pehle
+        int i = 0; int j = n-1;
+        //iterate karao
+        while(i<j){
+            //ignore karo npn alphanumeric leteers ko and pointer ko       increment and decremnt karo.skipping alphanumeric
         while(i<j && !isalnum(s[i])) i++;
         while(i<j && !isalnum(s[j])) j--;
-        //compare letters handling case
+        //compare the string letter case ko handle karte hue
         if(tolower(s[i])!=tolower(s[j])){
             return false;
         }
         i++;
         j--;
-       }
-       return true;
+        }
+        return true;
     }
 };
