@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
