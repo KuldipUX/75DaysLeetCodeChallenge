@@ -1,42 +1,49 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
+ListNode* reverseList(ListNode* head){
+    if(head==NULL || head->next==NULL) return head;
+    ListNode* newHead = reverseList(head->next);
+    head->next->next = head;
+    head->next = NULL;
+    return newHead;
+}
     void reorderList(ListNode* head) {
-        if (!head || !head->next) return;
-
-        // Step 1: Find middle
         ListNode* slow = head;
         ListNode* fast = head;
-        
-        while (fast->next && fast->next->next) {
+        while(fast->next!=NULL && fast->next->next!=NULL){
             slow = slow->next;
             fast = fast->next->next;
+        } 
+        //slow is at the  middle / middle
+        ListNode* b = reverseList(slow->next);
+        ListNode* a = head;
+        slow->next = NULL;//breaking the lists
+        //merge these two - a and b alternatively
+        ListNode* c = new ListNode(100);
+        ListNode* tempC = c;
+        ListNode* tempA = a;
+        ListNode* tempB = b;
+        while(tempA && tempB){
+            tempC->next = tempA;
+            tempA   = tempA->next;
+            tempC   = tempC->next;
+
+            tempC->next = tempB;
+            tempB = tempB->next;
+            tempC = tempC->next; 
         }
+        tempC->next = tempA;
+        head = c->next;
 
-        // Step 2: Reverse second half
-        ListNode* prev = NULL;
-        ListNode* curr = slow->next;
-        slow->next = NULL; // break the list
-
-        while (curr) {
-            ListNode* nextTemp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextTemp;
-        }
-
-        // Step 3: Merge two halves
-        ListNode* first = head;
-        ListNode* second = prev;
-
-        while (second) {
-            ListNode* temp1 = first->next;
-            ListNode* temp2 = second->next;
-
-            first->next = second;
-            second->next = temp1;
-
-            first = temp1;
-            second = temp2;
-        }
     }
 };
