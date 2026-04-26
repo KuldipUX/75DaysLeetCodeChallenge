@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1480-running-sum-of-1d-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
