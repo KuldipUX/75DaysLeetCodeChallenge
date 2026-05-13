@@ -1,17 +1,21 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
-        int n = nums.size();
-        int Max = nums[0];
-        int index =0;
-        for(int i =0 ; i<n;i++){
-            if(nums[i]>Max){//constant time operation hai o(1).
-                 Max = max(Max,nums[i]);
-                 index = i;
+        int low = 0;
+        int high = nums.size()-1;
+        while(low < high){
+            int mid = low + (high - low)/2;
+            if(nums[mid]<nums[mid +1]){
+                low = mid + 1;
             }
-        
-         
+            else {
+                high = mid;
+            }
         }
-        return index;
+        return low;
     }
-};//time complexity : O(n)*O(1) = O(n)..
+};
+
+
+        
+        
