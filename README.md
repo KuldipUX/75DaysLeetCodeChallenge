@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
 | ------- |
