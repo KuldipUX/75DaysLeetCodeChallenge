@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -359,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
