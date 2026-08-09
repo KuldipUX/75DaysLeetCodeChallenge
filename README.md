@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -103,15 +105,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -367,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KuldipUX/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
